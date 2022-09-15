@@ -1,12 +1,11 @@
-<h3 align="center">I,m Jame in Thailand</h3>
+<h1 align="center">HI I,m Jame</h1>
+<h3 align="center">what's up friend</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jame2544&label=Profile%20views&color=0e75b6&style=flat" alt="jame2544" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaaame&label=Profile%20views&color=0e75b6&style=flat" alt="jaaame" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-- Email nongjame85@gmail.com
-- twitter @ChinoEzi
 <p align="left">
+<a href="https://twitter.com/chinoezi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chinoezi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -15,5 +14,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaaame&show_icons=true&locale=en&layout=compact" alt="jaaame" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaaame&show_icons=true&locale=en" alt="jaaame" /></p>
+
+
+
 
 
