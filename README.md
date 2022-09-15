@@ -4,8 +4,8 @@
 
 
 <h3 align="left">Connect with me:</h3>
-- Email **nongjame85@gmail.com**
-- twitter **@ChinoEzi**
+- Email nongjame85@gmail.com
+- twitter @ChinoEzi
 <p align="left">
 </p>
 
