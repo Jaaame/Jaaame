@@ -2,9 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jame2544&label=Profile%20views&color=0e75b6&style=flat" alt="jame2544" /> </p>
 
-- Email **nongjame85@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+- Email **nongjame85@gmail.com**
+- twitter **@ChinoEzi**
 <p align="left">
 </p>
 
