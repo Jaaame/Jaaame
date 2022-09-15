@@ -5,16 +5,16 @@
 
 <br>
 
-  <a href="https://github.com/Jaaame-v">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaaame-v&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
+  <a href="https://github.com/Jaaame">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaaame&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
   </a>
-  <a href="https://github.com/Jaaame-v">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaaame-v&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Chakravarthi's github stats" height="220px" />
+  <a href="https://github.com/Jaaame">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaaame&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Chakravarthi's github stats" height="220px" />
   </a>
 
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jaaame-v.408179647)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jaaame.408179647)
 
 ------
 
