@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Krittipong Phetnony (Jame) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h3 align="center">A Junior Computer Science Undergrad at SRM Institute of Science and Technology who is currently learning MERN stack web development</h3>
+<h3 align="center">I am a university student King Mongkut, North Bangkok Information Technology</h3>
 
 <br>
 
@@ -20,7 +20,6 @@
 
 Credit: [chakravarthi-v](https://github.com/chakravarthi-v)
 
-Last Edited on: 20/09/2021
 
 
 
